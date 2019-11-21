@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JSON data security</title>
+    </head>
+    <body>
+    <script type="text/javascript">
+        var myApp = {};
+        myApp.dataStream = 'while(1);[{"Id":1,"Balance":233.82},{"Id":2,"Balance":1084.43},{"Id":3,"Balance":63096.50}]';
+        myApp.stripData = function() {
+            var cleanData = this.dataStream.slice(9);
+            console.log(cleanData);
+        }
+        myApp.stripData();
+    </script>
+    </body>
+</html>

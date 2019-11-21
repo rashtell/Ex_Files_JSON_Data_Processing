@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Testing for an empty object</title>
+    </head>
+    <body>
+    <script type="text/javascript">
+        var emptyObject = {};
+        var nonEmptyObject = {apples: "red"};
+        var stringContent = "banana";
+        var numberContent = 5;
+        var arrayContent = ["asparagus", "lettuce", "kale"];
+        var dateContent = new Date();
+        function testData(data) {
+            for (prop in data) {
+                if (hasOwnProperty === true) {
+                    console.log('Not an empty object:');
+                    return data; 
+                }
+            }
+            if (JSON.stringify(data) === JSON.stringify({})) {
+                console.log('Empty Object:');
+                return data;                
+            } else { 
+                console.log('Not an empty object:');
+                return data;
+            }
+
+/*
+            if (Object.keys(data).length === 0 && data.constructor === Object) { 
+                console.log('Empty Object:');
+                return data;
+            } else { 
+                console.log('Not an empty object:');
+                return data;
+            }
+*/
+        }
+    </script>
+    </body>
+</html>

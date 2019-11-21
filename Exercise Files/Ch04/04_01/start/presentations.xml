@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+  <speaker>
+    <firstName>Cassandra
+    <lastName>Garza</lastname>
+    <school/company>JPL</school/company>
+  </speaker>
+  <talk>
+    <topic>Martian Terraforming & Vermiculture</topic>
+    <length><time>30:00</length></time>
+  </talk>

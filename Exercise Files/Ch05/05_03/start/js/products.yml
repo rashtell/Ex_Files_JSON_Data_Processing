@@ -1,0 +1,58 @@
+---
+# Product data
+products:
+- image: vitamin-a.jpg
+  alt: Vitamin A - Product Photo
+  name: Vitamin A
+- image: vitamin-bcomplex.jpg
+  alt: B Complex - Product Photo
+  name: B Complex
+- image: mineralwater-blueberry.jpg
+  alt: Blueberry Mineral Water - Product Photo
+  name: Blueberry Mineral Water
+- image: vitamin-c.jpg
+  alt: Vitamin C - Product Photo
+  name: Vitamin C
+- image: proteinbar-chocolate.jpg
+  alt: Protein Bar Chocolate - Product Photo
+  name: Chocolate Protein Bar
+- image: vitamin-calcium.jpg
+  alt: Vitamin Calcium - Product Photo
+  name: Calcium Vitamin
+- image: vitamin-d.jpg
+  alt: Vitamin D - Product Photo
+  name: Vitamin D
+- image: vitamin-flaxseed-oil.jpg
+  alt: Flaxseed Oil - Product Photo
+  name: Flaxseed Oil Vitamin
+- image: vitamin-iron.jpg
+  alt: Vitamin Iron - Product Photo
+  name: Iron Vitamin
+- image: mineralwater-lemonlime.jpg
+  alt: Mineral Water Lemon Lime - Product Photo
+  name: Lemon Lime Mineral Water
+- image: vitamin-magnesium.jpg
+  alt: Vitamin Magnesium - Product Photo
+  name: Magnesium Vitamin
+- image: vitamin-multi.jpg
+  alt: Vitamin Multivitamin - Product Photo
+  name: Multi-vitamin
+- image: proteinbar-peanutbutter.jpg
+  alt: Vitamin Protein Bar Peanut Butter - Product Photo
+  name: Peanut Butter Protein Bar
+- image: mineralwater-strawberry.jpg
+  alt: Mineral Water Strawberry - Product Photo
+  name: Strawberry Mineral Water
+- image: proteinbar-lemon.jpg
+  alt: Protein Bar Lemon - Product Photo
+  name: Lemon Protein Bar
+- image: mineralwater-orange.jpg
+  alt: Mineral Water Orange - Product Photo
+  name: Orange Mineral Water
+- image: mineralwater-peach.jpg
+  alt: Mineral Water Peach - Product Photo
+  name: Peach Mineral Water
+- image: mineralwater-raspberry.jpg
+  alt: Mineral Water Raspberry - Product Photo
+  name: Raspberry Mineral Water
+

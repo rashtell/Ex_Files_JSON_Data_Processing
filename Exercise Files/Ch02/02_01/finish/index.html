@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Understanding JSON data</title>
+    </head>
+    <body>
+    <script type="text/javascript">
+        var jsonObject = '{"heading": "Arboretum", "author": "jlowe54", "votes": 896}';
+        var jsonArray = '[{"Id":1,"Balance":233.82},{"Id":2,"Balance":1084.43},{"Id":3,"Balance":63096.50}]';
+        console.log("Parsed jsonObject: ");
+        console.log(JSON.parse(jsonObject));
+        console.log("Parsed jsonArray: ");
+        console.log(JSON.parse(jsonArray));        
+    </script>
+    </body>
+</html>
